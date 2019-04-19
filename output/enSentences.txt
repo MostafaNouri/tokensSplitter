@@ -1,0 +1,1000 @@
+1) byfreeshock -> by free shock 
+2) lightweight -> lightweight 
+3) themagnetic -> Error
+4) theboundary -> the boundary 
+5) viscousself -> viscous self 
+6) inthispaper -> in this paper 
+7) theunsteady -> the unsteady 
+8) symmetrical -> symmetrical 
+9) normalforce -> normalforce 
+10) placeholder -> placeholder 
+11) transitional -> transitional 
+12) hasbecomethe -> has become the 
+13) exactconical -> exact conical 
+14) compressible -> compressible 
+15) wherethemean -> where them e an 
+16) afiniteregion -> a finite region 
+17) itiswellknown -> it is wellknown 
+18) thecontinuity -> the continuity 
+19) inarecentnote -> in are cent note 
+20) stackingstudy -> stacking study 
+21) timehistories -> time histories 
+22) thestewartson -> the stewartson 
+23) iftheboundary -> if the boundary 
+24) avehiclecanbe -> Error
+25) analysisofthe -> analysis of the 
+26) skinstiffener -> skins t if f e n r 
+27) forcertainaero -> force rt a in er o 
+28) ateachoftwenty -> at each of twenty 
+29) inarecentpaper -> in are cent paper 
+30) asimplepicture -> Error
+31) byusingakarman -> by using a k rm n 
+32) theauthorgives -> the author gives 
+33) fullydeveloped -> fully developed 
+34) supersonicwind -> supersonic wind 
+35) thepresenceofa -> the presence of a 
+36) whererisaplane -> where r is a p l n e 
+37) footsupersonic -> foot supersonic 
+38) aninductiondrag -> an induction drag 
+39) theadventofhigh -> the advent of high 
+40) dimensionalwind -> dimensional wind 
+41) lengthmechanism -> length mechanism 
+42) inarecentletter -> in are cent letter 
+43) theeffectsoflow -> the effects of low 
+44) airfoilprofiles -> airfoil profiles 
+45) transferandskin -> transfer and skin 
+46) experimentsonaxi -> experiments on axi 
+47) atheoryofrounded -> at he or y ofr o u nd e d 
+48) comparisonofheat -> comparison of heat 
+49) theuseofboundary -> the use of boundary 
+50) asurveyofthestate -> as u r v e y of th s t a 
+51) reasonsforenquiry -> reasons fore n q u i r y 
+52) withtheabovetitle -> with the above title 
+53) analternativesemi -> an alternatives e m i 
+54) flowairfoiltheory -> flow airfoil theory 
+55) whichdiscussedoil -> which discussed oil 
+56) theresultsofshort -> there s u l to f h or t 
+57) localheattransfer -> local heattransfer 
+58) inthissummarypaper -> in this summary paper 
+59) itispointedoutthat -> it is pointed out that 
+60) intheanalysisofone -> in the analysis of one 
+61) speedresearchontwo -> speed research on two 
+62) undertheabovetitle -> under the above title 
+63) formsolutionsofthe -> forms o l u t in s f he 
+64) considersamaterial -> considers a m t er i l 
+65) theauthorrewritesv -> the author rewrites v 
+66) themodifiedslender -> them o d if i e s l n r 
+67) theeffectofastrong -> the effect of as tr on g 
+68) theintensityofshock -> the intensity of shock 
+69) anapproximatemethod -> an approximate method 
+70) inthefirstpartofthe -> in the first part of 
+71) calculationofsecond -> calculation of second 
+72) thehotouterinviscid -> the hot outer inviscid 
+73) isextendedtoinclude -> is extended to include 
+74) itisshownthatthetwo -> it is shown that the two 
+75) ananalysisofthepart -> an al y s i of the part 
+76) aseparatedflowfield -> as e para t d flow f i l 
+77) fromahoveringaerial -> from a hovering er i l 
+78) theeffectofaforward -> the effect of a for w r d 
+79) anintegralexpression -> an integral expression 
+80) inthepibalhypersonic -> in the pibal hypersonic 
+81) therelationofthetime -> there la tion of the time 
+82) transfercoefficients -> transfer coefficients 
+83) thedevelopmentrocket -> the development rocket 
+84) ofplanelaminarmotion -> of plane laminar motion 
+85) theresultsaregivenof -> there s u l t are given of 
+86) infirstapproximation -> in first approximation 
+87) thebasisofanythermal -> the basis of any rm al 
+88) withoblateatmosphere -> with oblate atmosphere 
+89) distributionandforce -> distribution and force 
+90) pressuremeasurements -> pressure measurements 
+91) layerequationsandthe -> layer equations and the 
+92) amethodispresentedfor -> a method is presented for 
+93) thevelocitypotentials -> the velocity potentials 
+94) thelaplacetransformof -> the laplace transform of 
+95) airandheliuminjection -> air and helium injection 
+96) thepaperdealswithself -> the paper deals with self 
+97) intherecentpaperbyzuk -> in there cent paper by zuk 
+98) thestabilitytheoryofa -> the stability or y of a 
+99) thereflectionofashock -> Error
+100) methodsbasedonoblique -> methods based on oblique 
+101) pitchingmomentandfull -> pitchingmoment and full 
+102) withaviewtothestudyof -> with a view to the study of 
+103) theshapeandnatureofthe -> the shape and nature of 
+104) examinationofthecrocco -> examination of the crocco 
+105) aninvestigationatafree -> an investigation at a free 
+106) tunnelinvestigationwas -> tunnel investigation was 
+107) anewmethodhasbeengiven -> an e w mth o d has b n g iv 
+108) amultiwebwingstructure -> Error
+109) ananalysisisgivenofthe -> an al y s ii given of the 
+110) thedynamiclongitudinal -> the dynamic longitudinal 
+111) platetheoryforturbulent -> plate theory fort u r b l e n t 
+112) someofthetheoriesfortwo -> some of the or i e s ft w o 
+113) thisnotediscussesthetwo -> Error
+114) waveisformedinfrontofit -> wave is formed in front of it 
+115) testsonthestorageheater -> tests on the storage heater 
+116) werecarriedoutusingahot -> were carried out using a hot 
+117) theforciblebucklingofan -> the forcible buckling of an 
+118) resultsoffluttertestson -> results off l u t er e s on 
+119) lagrangianmethodsinheat -> lagrangian methods in heat 
+120) themodelusedisthatoftwo -> them o de l used is that ft w 
+121) thedifferentialanalyser -> the differential analyser 
+122) theequationsforplanartwo -> the equations for planar two 
+123) transversemagneticfields -> transverse magnetic fields 
+124) continuoussupersonicwind -> continuous supersonic wind 
+125) inchsupersonicwindtunnel -> inch supersonic windtunnel 
+126) theflowpastaslenderdelta -> the flow past as lend er delta 
+127) exceptinexceptionalcases -> except in ion al cases 
+128) adiscussionoftheintegral -> a discussion of the in t e g rl 
+129) detraandhidalgohaveshown -> detra and hidalgo have shown 
+130) acircularcylinderwithtwo -> Error
+131) presentationofstagnation -> presentation of stagnation 
+132) beenextendedtoincludenon -> been extended to include non 
+133) theintensityofturbulence -> the intensity of turbulence 
+134) withthedevelopmentofhigh -> with the development of high 
+135) anexactsolutionoftheheat -> an exact solution of the heat 
+136) theflowaroundslenderwing -> the flow around slender wing 
+137) amethodisdevelopedforthe -> a method is developed forth e 
+138) theclampedplateproblemin -> the clamped plate problem in 
+139) acollectionhasbeenmadeof -> a collection h s been m de of 
+140) weconsiderinthisreportthe -> we consider in this report the 
+141) theprofilesandthicknesses -> the profiles and thicknesses 
+142) thetransonicflowroundatwo -> the transonic flow round at w o 
+143) recentresultsoftestsinthe -> recent results of tests in the 
+144) comparisonsaremadebetween -> comparisons are made between 
+145) thispaperstudiesthesteady -> this papers t u d i e s h a y 
+146) testshavebeenmadeinthreen -> tests have been made in three n 
+147) fromananalysisoftheworkof -> from an al y s i of the work 
+148) fromastudyofexistingsonic -> from as t u dy of e x is ing sonic 
+149) adescriptionisgivenofthen -> a description is given of then 
+150) followingthemethodsoflyon -> following them et h o d s fly n 
+151) astudywasmadeofthefatigue -> as t u dy w made of he f a i g e 
+152) withtheintroductionofhigh -> with the introduction of high 
+153) thetransientperformanceof -> the transient performance of 
+154) oftheperfectlyelasticthin -> of the perfectly elastic thin 
+155) ofnewtoniantheoryforblunt -> of newtonian theory for blunt 
+156) paperisatranslationofchap -> paper is at r an s li on of chap 
+157) aninvestigationtodetermine -> an investigation to determine 
+158) themethodsoftheoperational -> them et h o d s ft e pr at in al 
+159) asimplemethodofdetermining -> as im p l e mth o d ft rm in g 
+160) measurementshavebeenmadeof -> measurements have been made of 
+161) theproblemsofsolidblockage -> the problems of solid blockage 
+162) aconewithabluntnosetipanda -> a cone with blunt nose tip nd 
+163) theeconomyofadesigndepends -> the economy of a design depends 
+164) resultsaregivenoflocalskin -> results are given of local skin 
+165) controlsurfaceflutterofthe -> Error
+166) temperatureprofilesandheat -> temperature profiles and heat 
+167) thispaperisabriefsummaryof -> this paper is ab r i e f sum may o 
+168) aninvestigationoftheeffect -> an investigation of the effect 
+169) resultsofhypersonicflutter -> results of hypersonic flutter 
+170) astudyhasbeenmadeofthetime -> as t u dy h been made of e im 
+171) thetheoryoflaminarboundary -> the or y of laminar bound a r 
+172) testsweremadeofashortblunt -> tests were made of as h or t b l u n 
+173) asimplemethodofcalculating -> Error
+174) aninvestigationismadeofthe -> an investigation is made of the 
+175) atechniqueisdiscussedwhich -> Error
+176) stateequationsofmotionfora -> state equations of motion for a 
+177) anewstatictubeandanewpitot -> an e w static t u b dp i o 
+178) theperformancetheoryforhigh -> the performance or y f high 
+179) thepracticalneedforresearch -> the practical need for research 
+180) estimatesofthevariationwith -> estimates of the variation with 
+181) thepresentpaperconcernswith -> the present paper concerns with 
+182) thetumblingmotionofvehicles -> the tumbling motion of vehicles 
+183) theproblemofcircumferential -> the problem of circumferential 
+184) improvementindetectedsignal -> improvement in detected signal 
+185) resultsofanexperimentalheat -> results of an experimental heat 
+186) inhisdetailedstudyofthenose -> in his detailed study of then o s e 
+187) ageneraltheoryofsteadythree -> age n er al theory of steady three 
+188) whengasesflowathighvelocity -> when gases flow at highvelocity 
+189) theauthorsgiveabriefaccount -> the authors give ab r i e f account 
+190) thisreportpresentsequations -> this report presents equations 
+191) windtunneltestshavebeenmade -> windtunnel tests have been made 
+192) suitableformsoftheequations -> suitable forms of the equations 
+193) bytransformationofvariables -> by transformation of variables 
+194) theroutinetestingofaircraft -> the routine testing of aircraft 
+195) duringthermalfatiguetesting -> during thermalfatigue testing 
+196) bymeansofsuitableexpansions -> by means of suitable expansions 
+197) thisreportisrestrictedtothe -> this report is restricted to the 
+198) extensionofpreviousanalyses -> extension of previous analyses 
+199) thebucklingofsimplysupported -> the buckling of simply supported 
+200) distributioninaboundarylayer -> distribution in ab o u nd ary layer 
+201) itisdemonstratedthattheshock -> it is demonstrated that the shock 
+202) approximateexpressionsforthe -> approximate expressions forth e 
+203) dataarepresentedwhichprovide -> data are presented which provide 
+204) thisreportcontainstheresults -> this report contains there s u l t 
+205) usingthetechniquesofboundary -> using the techniques of boundary 
+206) existingmethodsofcalculating -> existing methods of calculating 
+207) amethodforcomputingthesteady -> a method for computing the s t e dy 
+208) discussionofvariousturbulent -> discussion of various turbulent 
+209) aninvestigationofsomeaspects -> an investigation of some aspects 
+210) tunneltestshavebeenperformed -> tunnel tests have been performed 
+211) itisshownthatshockwaveswhose -> it is shown that shockwaves whose 
+212) afteranextensivesurveyofmean -> after an extensive survey of m e 
+213) thisisthefirstofthreepartsof -> this is the first of three parts 
+214) asatellitevehicleisdescribed -> Error
+215) areviewisgivenofdevelopments -> are view is given of developments 
+216) resultsarepresentedfromawind -> results are presented from a wind 
+217) bythedistortionofcoordinates -> by the distortion of coordinates 
+218) thisreportgivestablesofthetwo -> this report gives tables of the two 
+219) pressuredistributionshavebeen -> pressuredistribution s have been 
+220) withthevonmisestransformation -> with the von mises transformation 
+221) theeffectofairdragonsatellite -> the effect of air drag on satellite 
+222) corridorsformannedvehiclesare -> Error
+223) ananalysisismadeforthelaminar -> an al y s ii made forth e laminar 
+224) windtunnelexperimentswithside -> windtunnel experiments with side 
+225) asummaryofexactsolutionsofthe -> as u mm ary of exact so l tions the 
+226) andrapidmethodbywhichboundary -> and rapid method by which boundary 
+227) forinitialstagnationpressures -> for initial stagnation pressures 
+228) amethodisdescribedfortreating -> a method is described fort re ting 
+229) ontheoriesofvorticitytransfer -> on theories of vorticity transfer 
+230) anexactgeneralmethodofsolving -> an exact general method of solving 
+231) distributedroughnessbandsofno -> distributed roughness bands of no 
+232) aheatconductionproblemissetup -> Error
+233) themethodofgeneralisedconical -> Error
+234) anexaminationhasbeenmadeofthe -> an examination has been made of the 
+235) ageneraltheoryofcreepbuckling -> Error
+236) measuredasafunctionofpressure -> measured as a function of pressure 
+237) thenonviscousflowthroughamixed -> then on viscous flow through a mixed 
+238) theproblemoftransientliftontwo -> the problem of transient lift on two 
+239) amethodofpredictinglaminarheat -> a method of predicting l m in r he t 
+240) onthebasisofthehypersonicsmall -> on the basis of h y per s i cm all 
+241) anexperimentalinvestigationwas -> an experimental investigation was 
+242) theequationsoftheboundarylayer -> the equations of boundarylayer 
+243) thisnotedescribestransientwall -> Error
+244) panelfluttertestswereconducted -> panel flutter tests were conducted 
+245) thedeflexionofauniformlyloaded -> the deflexion of a uniformly l o de d 
+246) oftheinfluenceofboundarylayers -> of the influence boundarylayer s 
+247) tohelpfillthegapintheknowledge -> to help fill the gap ink now led g e 
+248) anewandgeneralmethodforsolving -> an e w d g n r al mth of o s l vi 
+249) turbulentrecoveryfactorandheat -> turbulent recovery factor and heat 
+250) anexperimentalinvestigationhas -> an experimental investigation has 
+251) semivertexangleconewerestudied -> semivertex angle cone were studied 
+252) intheflowpastaslenderdeltawing -> in the flow past as lend er delta w g 
+253) therateofenergytransferbetween -> the rate of energy transfer between 
+254) thecamberandtwistdistributions -> the camber and twist distributions 
+255) aninterpretationofthedehoffman -> an interpretation of the de h f m 
+256) forthinshellstherelationbetween -> forth in shells there la tion between 
+257) accordingtotheclassicalboundary -> according to the classical boundary 
+258) amethodforfindingrealandcomplex -> a method for finding re l nd co m p e x 
+259) abladedesignforahighlyloadedtwo -> ab la de sign for a highly l o d t w 
+260) asaresultofstudiesmadeduringthe -> as are s u l to ft d i e m a r n g th 
+261) thedisplacementofaflatplatebent -> the displacement of a fl t p l e b n 
+262) amethodofanalysisbasedonslender -> a method of n l y s i be do e d r 
+263) thetheoryofsupersonicflowaround -> the or y of supersonic flow around 
+264) thecaseofcreepbucklingofcolumns -> the case of creepbuckling columns 
+265) theoreticalbucklingcoefficients -> theoretical buckling coefficients 
+266) aninvestigationhasbeenconducted -> an investigation has been conducted 
+267) thepresentstateofknowledgeonthe -> the presents t a e of know ld go n 
+268) theproblemofdeterminingthetotal -> the problem of determining total 
+269) transienttemperaturesinaerofoil -> transient temperatures in aerofoil 
+270) thepolygonmethodofwoodsisusedto -> the polygon method of woods is used to 
+271) amethodofdesigningpumpimpellers -> a method of designing pump impellers 
+272) byconsiderationofantisymmetrical -> by consideration of antisymmetrical 
+273) ageneralmethodisdescribedwhereby -> age n er al method is described w he by 
+274) recenttheoreticalandexperimental -> recent theoretical and experimental 
+275) thenonlinearboundaryvalueproblem -> then on linear boundary value problem 
+276) theblasiusequationsubjecttothree -> Error
+277) theenergyseparationforlaminarlow -> the energy separation for laminar low 
+278) discussionofapreviousapplication -> Error
+279) thebasicequationsundersimplified -> the basic equations under simplified 
+280) layerequationshavebeenintegrated -> layer equations have been integrated 
+281) developsasideforcelikethatofafin -> develops aside force like that of a fin 
+282) bucklingtimesofinitiallystraight -> buckling times of initially straight 
+283) thepresentreportgivesanaccountof -> the present report gives an account of 
+284) aninvestigationhasbeenmadeinthen -> an investigation has been made in then 
+285) ananalysisismadeoftheoscillatory -> an al y s ii made of the oc i l at or 
+286) convectionflowandheattransferofan -> convection flow and heattransfer of an 
+287) itisproposedtoshowthattheboundary -> it is proposed to show that the boundary 
+288) orderboundarylayerdisturbancesare -> order boundarylayer disturbances are 
+289) thegeneralcharacterofexperimental -> the general character of experimental 
+290) thehypersonicviscousflowpastaflat -> the hypersonic viscous flow past a fl t 
+291) theinteractionbetweentheturbulent -> the interaction between turbulent 
+292) thehypersoniclaminarboundarylayer -> the hypersonic laminarboundary layer 
+293) dimensionalheatconductionproblems -> dimensional heat conduction problems 
+294) itisshownthatinthepotentialflowof -> it is shown that in the potentialflow of 
+295) thispaperisconcernedwiththedesign -> this paper is concerned with the design 
+296) anapproximatesolutionforthesteady -> an approximates o l u t in f r he sea dy 
+297) aninvestigationwasconductedinthen -> an investigation was conducted in then 
+298) theopticalandphysicalpropertiesof -> the optical and physical properties of 
+299) thetheoryofthelaminarboundarylayer -> the or y of laminar bound a rl er 
+300) theextensionalandflexuralequations -> the extensional and flexural equations 
+301) thenaturalfrequenciesofacontinuous -> Error
+302) systematictestshavebeenmadeatamach -> systematic tests have been made at a mc h 
+303) byamethodsimilartothatdevelopedbys -> by a methods im i l rt o th t de v e p d s 
+304) inthecourseofinvestigatingboundary -> in the course of v e s t i g ab o u nd ary 
+305) ananalysisispresentedwhichpredicts -> Error
+306) thesupersonicflowaboutabluntbodyof -> the supersonic flow about ab l u n t body of 
+307) theproblemoftheflowalongaflatplate -> the problem off low along a fl t p l e 
+308) theresultsoftestsonpressurizedring -> there s u l to ft e np r i z d n g 
+309) resultsoffatiguetestscarriedoutatr -> Error
+310) asimplemethodisgivenwhichissuitable -> as im p l e mth o d is g iv n which s u it ab 
+311) mosttreatmentsofmagnetohydrodynamic -> most treatments of magnetohydrodynamic 
+312) walledcircularcylindersisreplacedby -> walled circular cylinders is replaced by 
+313) inthepresentreportthestabilityoftwo -> in the present reports tab i l t y of w o 
+314) hasbeenextendedtothecylindricalcase -> has been extended to the cylindrical case 
+315) theflowfieldanalyzedconsistsofathin -> the flow field analyzed consists of at h in 
+316) thepossibilityofagradualinstability -> the possibility of a g r du lin s t b i l y 
+317) measurementshavebeenmadeofthedirect -> measurements have been made of the direct 
+318) thispaperpresentsnumericalresultsof -> this paper presents numerical results of 
+319) themomentumequationwasuncoupledfrom -> Error
+320) existingtheoriesforthestantontubeare -> existing theories forth e stanton t u bar 
+321) whichisarevisionandextensionofnacatn -> which is are vi on and e x tn s i of naca 
+322) theelectricalconductivityofanionized -> the electrical conductivity of an ionized 
+323) atheoreticalinvestigationofsymmetric -> Error
+324) thetheoryofstabilityofdynamicsystems -> the or y of s tab i ltd n a mc t e m 
+325) thepresentpapercontainsanapplication -> the present paper contains an application 
+326) andpressuredistributionofatriangular -> and pressuredistribution of at r i an g u la 
+327) methodapplicabletobodiesofrevolution -> method applicable to bodies ofr e v o l u t in 
+328) vibrationinaircraftstructurecanalmost -> vibration in aircraft structure can almost 
+329) thevalueofthecompressivestressatwhich -> the value of compressive stress at which 
+330) flightmodelswereflowntomeasurethezero -> flight models were flown to measure the zero 
+331) astudyismadeofthestationaryconvection -> Error
+332) inspecialcircumstanceswherealargework -> in special circumstances where al a r g e w o k 
+333) thereportdescribesaninvestigationinto -> there p or t describes an in v e s i g ao no 
+334) theincompressiblelaminarboundarylayer -> the incompressible laminarboundary layer 
+335) dataarepresentedonsideforcesgenerated -> data are presented on sideforce s generated 
+336) thedevelopmentofsupersoniccompressors -> the development of supersonic compressors 
+337) alongthecentrelineoftheworkingsection -> along the centreline of workingsection 
+338) theeffectofinternalpressureonthesmall -> the effect of internal pressure on small 
+339) thetheoryofcompressibleflowinalaminar -> the or y of compressibleflow in al a m r 
+340) theproblemofthebucklingofthincircular -> the problem of buckling thin circular 
+341) thereportdescribesteststoobtaindirect -> Error
+342) thepurposeofthisnoteistodiscussthetwo -> Error
+343) somewhatmoreaccuratethanthoserecently -> somewhat more accurate than those recently 
+344) thispaperpresentsamethodofcalculating -> Error
+345) astudyhasbeenmadeoftheflowdevelopment -> as t u dy h been made of e flow dvl op m n 
+346) theinviscidflowofaperfectgasoverblunt -> the inviscidflow of a perfect g so v er blunt 
+347) currentinterestintheproblemofinviscid -> current interest in the problem of viscid 
+348) thepairofmotionequationsforentryintoa -> the pair of motion equations fore n tr y it o a 
+349) astudyismadeoftheunsteadyflowaroundan -> as t u dy is made of he n sea flow a r o d 
+350) amethodispresentedforcomputingrapidly -> a method is presented for computing r p i d l y 
+351) thedeterminationofcolumndeflectionsand -> the determination of column deflections and 
+352) threecentrifugalimpellerswithparabolic -> three centrifugal impellers with parabolic 
+353) controlledmissileisoneinwhichmanoeuvre -> controlled missile is one in which manoeuvre 
+354) experimentaldataarepresentedonboundary -> experimental data are presented on boundary 
+355) andcirculatedtothecivildefenceresearch -> and circulated to the civil defence research 
+356) afterarathercompleteexploratoryprogram -> after a rt he r complete e x p l o y g m 
+357) presentedaretheresultsofanexperimental -> presented are there s u l to fan experiment a 
+358) thesimplelinearizedtransonicflowtheory -> the simple linearized transonic flow or y 
+359) randomvibrationisvibrationwhichresults -> random vibration is which results 
+360) inmixturesoftwodifferentgasesorliquids -> in mixtures of two different gases or liquids 
+361) magneticeffectsareconsiderednegligible -> magnetic effects are considered negligible 
+362) atheoreticalstudyismadeofsomecruciform -> Error
+363) analyticalsolutionsoftheprandtlboundary -> analytical solutions of the prandtl boundary 
+364) experimentshavebeenconductedtomeasurein -> experiments have been conducted to measure in 
+365) thelaminarboundarylayerinaxialflowabout -> the laminarboundary layer in axial flow about 
+366) therateofdecayofellipticsatelliteorbits -> the rate of decay elliptic satellite orbits 
+367) itisfoundthatforprescribedvelocityfield -> it is found that for prescribed v e l oc y f i d 
+368) thehyperboliccharacterofthedifferential -> the hyperbolic character of differential 
+369) theuseofmodeltestsinthepredictionoffull -> the use of model tests in prediction full 
+370) thegoverningequationsofanincompressible -> the governing equations of an incompressible 
+371) theeffectsonbasepressureofjetmachnumber -> the effects on base pressure of jet machnumber 
+372) ageneralmethodisdescribedforcalculating -> Error
+373) circularringwingwithabodyofrevolutionon -> circular ring wing with ab o dy f rev l u t in n 
+374) theproblemofevaluatingthebendingmoments -> the problem of evaluating bending moments 
+375) anexperimentalinvestigationofthelaminar -> an experimental investigation of the laminar 
+376) utilizingtheresearchresultsofpreviously -> utilizing there search results of previously 
+377) thisstudyoftheflowaboutanairfoilinanear -> this study of the flow about an airfoil in e a r 
+378) rateatwhichairdensitypvarieswithheighty -> rate at which air density pv a r i e s w th hg h t y 
+379) theinstabilityoftheacceleratedinterface -> the instability of accelerated interface 
+380) flowtheoremforcompressiblenonsteadyflow -> flow theorem for compressible nonsteady 
+381) thetendencyinthepasthasbeentoassumethat -> the tendency in past has been to assume that 
+382) thepaperconcernsthehydrodynamicturbulent -> the paper concerns hydrodynamic turbulent 
+383) theproblemofpredictingthecharacteristics -> the problem of predicting characteristics 
+384) aninvestigationwasconductedinahypersonic -> an investigation was conducted in a hypersonic 
+385) alinearizedsolutionbasedonadiscontinuous -> al in e a r i z d so l u to n b s co 
+386) thecharacteristicsofthepositionandformof -> the characteristics of position and form 
+387) theinfluenceoftransversemagneticfieldson -> the influence of transverse magnetic fields on 
+388) determinethepressureloadsproducedonaflat -> determine the pressure loads produced on a fl t 
+389) considerableinterestinthecharacteristies -> considerable interest in the characteristies 
+390) soundpropagationofconvectionontheonehand -> sound propagation of convection on the e hand 
+391) hoffhaspresentedformulaswhichcanbeusedin -> hoff has presented formulas which can be used in 
+392) injectionprocesshasbeenproposedasamethod -> injection process has been proposed as a method 
+393) thetitleproblemsweresolvedforthetwocases -> the title problems were solved fort w oc as e s 
+394) severalauthorshaveinvestigatedtheboundary -> several authors have investigated the boundary 
+395) theequationfortheequilibriumofcylindrical -> Error
+396) typeheatprotectionatthestagnationpointofa -> type heat protection at the s t a g n i op o f 
+397) inordertodeterminethevelocitydistribution -> in order to de term et he velocitydistribution 
+398) ananalysisispresentedofsupercircularentry -> Error
+399) anidealizationoftheflowsystemusedbypotter -> an idealization of the flows y stem used b potter 
+400) thepostbucklingbehaviorofinitiallyperfect -> the postbuckling behavior of initially perfect 
+401) thecriticalflutterspeedisevaluatedforatwo -> the critical flutter speed is evaluated for at w o 
+402) verysuitableforusewithanautomaticcomputer -> very suitable for use with an automatic computer 
+403) anapproximatetheoryofthebasepressureintwo -> an approximate theory of the base pressure in two 
+404) singularitiesareconsideredinthesolutionof -> singularities are considered in the solution of 
+405) measurementsweremadeofloadsinducedonaflat -> measurements were made of loads induced on a fl t 
+406) themethodofexpressingthevelocityincrement -> Error
+407) thispaperisconcernedwiththesimilitudelaws -> this paper is concerned with the similitude laws 
+408) explicitsolutionsareobtainedforthebending -> explicit solutions are obtained forth e b nd ing 
+409) theequationsaregivenforthelaminarboundary -> the equations are given for laminarboundary 
+410) discussionofasimilaritybetweenthepressure -> discussion of as im i la rt y between the pressure 
+411) anapparatusisdescribedwhichpermitsthemode -> an apparatus is described which permits them o de 
+412) byintroducingthesimilarityconcepttothetwo -> by introducing the similarity concept to two 
+413) thehovercraftisthefirstoperationalbritish -> the hovercraft is first operational b r it h 
+414) thisreportinvestigatesthewavedragofbodies -> this report investigates the wave drag of bodies 
+415) measurementsweremadeofthepressureinablunt -> measurements were made of the pressure in ab l u n t 
+416) thefrequencyspectraandvibrationmodesofthin -> the frequency spectra and vibration modes of thin 
+417) tofacilitatethedevelopmentofhighspeedaxial -> to facilitate the develop m e n f high s p d axial 
+418) liapunovandhistheoryofstabilityisdiscussed -> Error
+419) approximateanalyticalsolutionsarepresented -> approximate analytical solutions are presented 
+420) simplifiedexpressionsdescribingthetransfer -> simplified expressions describing the transfer 
+421) anexaminationoftheeffectsofcompressibility -> an examination of the effects compressibility 
+422) isstudiedanalyticallybyaperturbationmethod -> is studied analytically by a per t u r b ion meh o d 
+423) pressuremeasurementsweremadeonaslendercone -> Error
+424) intwopreviouspaperstheauthorshavediscussed -> in two previous papers the authors have discussed 
+425) amathematicaltreatmentofthecoupledmotionof -> Error
+426) expansiontheoryisutilizedtoobtainequations -> expansion theory is utilized too b t a in eq u ions 
+427) thecurveofdragagainstmachnumberforstraight -> the curve of drag against machnumber for straight 
+428) aprocedureispresentedwherebythecomposition -> a procedure is presented whereby the composition 
+429) thenewtoniantheoryofimpacthasbeenshowntobe -> then e w to n i at h or y of m p act as b so 
+430) themaintypesofaxialcompressorsaredescribed -> Error
+431) walkdentheoryfortheestimationofthestrength -> walkden theory forth e s t imai on of h r n g 
+432) vonkarmanandtsienhaveshownthatunderelastic -> von karman and tsien have shown that under elastic 
+433) theoryofthincylindricalshellsareintegrated -> theory of thin cylindrical shells are integrated 
+434) carriedoutforunyawedbodiesofrevolutionwith -> carried out for unyawed bodies ofr e v o l u t in w i h 
+435) inordertobringouttheimportanceoftheleading -> Error
+436) theparticletreatmentisappliedtoastudyofthe -> the particle treatment is applied to as t u dy of 
+437) theauthorpointsouttherelationoftheintegral -> the author points out relation of integral 
+438) aproblemofcreepstabilityofcolumnsandplates -> a problem of creep s t b i l y co u m n dp e 
+439) pohlhausenmethodisextendedprimarilytosixth -> pohlhausen method is extended primarily to sixth 
+440) advancesinthepracticaldevelopmentofboundary -> advances in the practical development of boundary 
+441) scaleredundantstructureanalysesarecurrently -> scale redundant structure analyses are currently 
+442) theflowofviscouselectricallyconductingfluid -> the flow of viscous electrically conducting fluid 
+443) thispaperdealswiththeapplicationofnumerical -> this paper deals with the application of numerical 
+444) theflowofacompressiblefluidpastaspherefixed -> the flow of a compressible fluid p s there fixed 
+445) therehaverecentlyarisensomequestionsastothe -> there have recently arisen some questions as to the 
+446) combinedfreeandforcedconvectiveheattransfer -> combined free and forced convective heattransfer 
+447) undertookthedesignandfabricationofavariable -> undertook the design and fabrication of a v rib l e 
+448) asolutionisobtainedfortherateofchangeofsemi -> Error
+449) astudywasmadeattransonicspeedsbythenacawing -> Error
+450) thestressesanddisplacementsinapartlyplastic -> Error
+451) tablesofthermodynamicandtransportproperties -> tables of thermodynamic and transport properties 
+452) asimplegraphicalnetworkisusedtodeterminethe -> Error
+453) comparativetestsweremadeonsevenconventional -> Error
+454) thegreatestorleastvalueofafunctionofseveral -> the greatest or least value of a functions e v rl 
+455) asystematicstudyofinducedpressuresonaseries -> Error
+456) theanalysisgivenbyprobsteinandelliottforthe -> the analysis given by probstein and elliott for 
+457) aformulafortheinitialbucklingloadsforclamped -> a form u l forth e in it i bc kg o d s f r cm p 
+458) thedominatingfactorsinstructuraldesignofhigh -> the dominating factors instruct u r al design of high 
+459) schlierenphotographshavebeencompiledofthetwo -> schlieren photographs have been compiled of the two 
+460) threemethodsofapproximatingthedeflectionsand -> three methods of approximating the deflections and 
+461) dimensionalinviscidnonequilibriumflowsofatwo -> dimensional inviscid nonequilibrium flows of at w o 
+462) theoreticalinvestigationisconsideredofthetwo -> theoretical investigation is considered of the two 
+463) thethermodynamicandtransportpropertiesofhigh -> the rm o dynamic and trans pr t per i e s f hg h 
+464) attentionhasbeencalledbynumerousauthorstothe -> attention has been called by numerous authors to the 
+465) inthetheoryofnonstationaryflowsaboutairfoils -> in the or y of non station a rf low s b out i o l 
+466) thetermflutterisusedheretodenotemaintainedor -> the term flutter is used here to denote maintained or 
+467) theflowinducedbythesuddencontactbetweenasemi -> the flow induced by sudden contact between as e m i 
+468) analysismethodisderivedanddemonstratedforthe -> analysis method is derived and demonstrated forth e 
+469) inhisstudyoftheeffectofroughnessontransition -> in his study of the effect roughness on transit i 
+470) thispaperanalyzesthebendingofasectorialplate -> Error
+471) anoutlineisgivenoftheusesoffluttermodelsasan -> an outline is given of the uses flutter models as 
+472) thevortextuberepresentsasimpledeviceinwhicha -> Error
+473) anintegralmethodfortherapidcalculationofheat -> Error
+474) recordingshavebeenmadeofthestrainsinducedina -> recordings have been made of the strains induced in a 
+475) itwasobservedthatthetwoexistingboundarylayer -> it was observed that the two existing boundarylayer 
+476) ananalyticalinvestigationismadeofaprecession -> Error
+477) theproblemoftheiondensitydistributionarounda -> the problem of ion density d is tr i but a r o u n 
+478) achangeinflowpatternthatwasobservedasthefree -> Error
+479) thephenomenonofcumulativedamageunderrepeated -> the phenomenon of cumulative damage under repeated 
+480) stationaryconvectivemotionofaconductingfluid -> stationary convective motion of a conducting fluid 
+481) variousobservationsandpreliminaryexperiments -> various observations and preliminary experiments 
+482) plateswithattachmentstoheaviermembersalongthe -> plates with attachments to heavier members along the 
+483) theoreticalandexperimentalresultsarepresented -> theoretical and experimental results are presented 
+484) indealingwiththesteadylaminarviscousflowovera -> in deal gw it h test e a dy l m r viscous f o w v 
+485) amachinefortestingturbinenozzlesbythereaction -> Error
+486) anapproximatemethodisusedtoobtaintheinjection -> Error
+487) parallelflowofanelectricallyconductingviscous -> parallel flow of an electrically conducting viscous 
+488) thereynoldsequationsofmotionofturbulentflowof -> there y no ld s equation of m o t i u r b l e n f w 
+489) inarecentpaperamethodwaspresentedforobtaining -> in are cent paper a method w s pre e n t d for ob g 
+490) ageneralmethodofsolutionisgiveninthispaperfor -> age n er al method of so l u t i o s g v e h p a f r 
+491) theproblemofstallflutterisapproachedintwoways -> the problem of stall flutter is approached in two ways 
+492) steadyapproachtoflutterutilizesexperimentalor -> steady approach to flutter utilizes experimental or 
+493) thispaperpresentstheresultsofthefirstpartofan -> this paper presents there s u l to ft he f i rt para n 
+494) thispapersetsoutthemethodnowusedbytheauthorof -> this papers et so u t he m h o d n w s e by a rf 
+495) inthispapertheincompressibleboundarylayerovera -> in this paper the compressible boundarylayer over a 
+496) thisreportdescribesanexperimentalinvestigation -> this report describes an experimental investigation 
+497) thestreamfunctionfortheshearflowwithhyperbolic -> the stream function for shear flow with hyperbolic 
+498) themajorscaleeffectsathighsubsonicandtransonic -> Error
+499) areviewismadeofexistingliteratureconcernedwith -> Error
+500) ordersolutionforthelaminarcompressibleboundary -> orders o l u t in f r he a mc m p e s i b nd y 
+501) intheearlierattemptsatfindingthejumpconditions -> in the earlier attempts at fd g jump conditions 
+502) thepurposeofthepresentpaperistoderiveasystemof -> the purpose of present paper is to derive as y stem 
+503) anearlyuniformshearflowwasobtainedintheworking -> an early uniform shear flow was obtained in the work g 
+504) tunnelresultsareanalyzedtoderiveasemiempirical -> Error
+505) theauthorstudiestheproblemoffindingtheshapeofa -> the authors t u d i e s pr ob l m off n g h a p of 
+506) theaerodynamicproblemsassociatedwithpropulsion -> the aerodynamic problems associated with propulsion 
+507) theexperimentallydemonstratedriseandsubsequent -> the experimentally demonstrated rise and subsequent 
+508) thedistributionofdeflectionandbendingmomentina -> the distribution of deflection and bending moment in a 
+509) severalmethodshavebeendevelopedforcomputingthe -> several methods have been developed for computing the 
+510) theauthorsrepeattheearliercalculationsofpiercy -> the authors repeat earlier calculations of piercy 
+511) afterabriefreviewofmethodsofcalculatingtheflow -> Error
+512) theweissingermethodfordeterminingadditionalspan -> the weissinger method for determining additional span 
+513) athighspeedstheturbulentboundarylayerwashingthe -> at highspeed s the turbulent boundarylayer w a h ing 
+514) anexpressionhasbeenderivedforthemassflowthrough -> an expression has been derived forth e mass flow through 
+515) anexactsolutionandacloselyconcurringapproximate -> an exact solution d a closely concurring p r o x im t e 
+516) atheoreticalanalysisismadeoftheconstantpressure -> at he or et i cal an al y s made of t co np re u 
+517) directmeasurementsofsupersoniclocalskinfriction -> direct measurements of supersonic local skinfriction 
+518) thedetachedshockinfrontofabluntbodyinhypersonic -> Error
+519) thisnotereferstopaperofsametitlebyfeldmaninarsj -> this note refers top a per of s met it l e by fd m n i r j 
+520) thisnoteattemptstoextendthediscussionbystatinga -> this note attempts to extend the discussion by stating a 
+521) amodifiedtechniquefortheoperationofaguntunnelis -> a modified technique forth e op rt ion of gun t u n li s 
+522) bodytheoryisextendedtoderivefirstapproximations -> body theory is extended to derive first approximations 
+523) thispaperisanattempttobringtogethertheimportant -> this paper is an attempt to bring get he rt im p o t 
+524) thispaperwillbeconcernedwithsomepropertiesofthe -> this paper will be concerned with some properties of the 
+525) athypersonicspeedsthedragareaofabluntnoseismuch -> Error
+526) thefundamentalinvestigationsofvonkarmanandtsien -> the fundamental investigations of von karman and tsien 
+527) aphysicalflowmodelisdevisedbasedontheconceptsof -> Error
+528) bodyapproximationoflinearizedcompressibleflowis -> body approximation of linearized compressibleflow is 
+529) thespatialdistributionofnoisesourcesalongajetis -> the spatial distribution of noise sources along a jet is 
+530) inthisreportatheoryofthinairfoilsofsmallcamberis -> in this report at he or y of th airfoils small camber is 
+531) ithasbeenestablishedinthepastthatthereisacertain -> Error
+532) cylindersinfreeflightinapressurizedrangehavebeen -> cylinders in free flight a pressurized r n g e h v b 
+533) thereareinsupersonicaerodynamicsmanysituationsof -> there are in supersonic aerodynamics many situations of 
+534) acorrectionismadefortheequationtocomputetheratio -> a correction is m de forth e q u tion to co p t h r i o 
+535) pressuresweresimultaneouslymeasuredinthevariable -> pressures were simultaneously measured in the variable 
+536) analyticalpredictionsaregivenforthedevelopmentof -> analytical predictions are given forth e dvl op m n to f 
+537) manyofthephenomenathatoccurintheworldaroundusare -> many of the phenomena that occur in world around us are 
+538) thevelocitycomponentsofthefluidfarfromtheairfoil -> the velocitycomponent so ff l u i d far from a rf o 
+539) flutterresearchonreflectionplanemodelsofstraight -> Error
+540) thepositionandstrengthofthefrontshockwaveatlarge -> the position and strength off r on t shockwave al age 
+541) knownthatwhentheflowiseverywheresubsonicinafield -> known that when the flow is everywhere subsonic in a field 
+542) thispaperpresentsthesolutionoftheheatflowproblem -> this paper presents the solution of heat flow problem 
+543) stiffeneraluminumalloypanelsconsistingoffourbays -> stiffener aluminumalloy panels consisting off our bays 
+544) inthispaperatheoreticalsolutionisdevelopedforthe -> in this paper at he or et i cal so l u to n s de v e op d ft 
+545) thereportisconcernedwiththevortexflowwhicharises -> there p or t is concerned w i h e v x fl oc ars 
+546) thetransienttemperaturedistributionandthethermal -> the transient temperature distribution and rm al 
+547) resultsaregivenofpressuremeasurementsandboundary -> results are given of pressure measurements and boundary 
+548) theeffectsofcontaminationofheliumbyairuponstatic -> the effects of contamination helium by air upon static 
+549) themethodpresentedinthepreviouspartsisemployedto -> them et h o dp re s e n t d i pv up arm p l y 
+550) flowpropertiesbehindshockwavescausedbybluffbodies -> flow properties behind shockwaves caused by bluff bodies 
+551) aninvestigationtodeterminethefeasibilityofusingan -> an investigation to determine the feasibility of using 
+552) sonicflowsaroundslenderbodiesandhaspointedoutthat -> sonic flows around slender bodies and has pointed out that 
+553) sponsoredexperimentalinvestigationofthelocationof -> sponsored experimental investigation of the location 
+554) forafamilyofconesofvarioussemiapexanglesbluntedby -> for a f mil y oc ones o v r i us s e m p x n g lb l u t db 
+555) thereportdescribesexperimentsdevisedtoinvestigate -> there p or t describes e x r im n s d vi o i g a 
+556) thispapershowshowtocalculatetherateofheattransfer -> this papers how s to calculate the rate of heat tr an f er 
+557) experimentsarereportedontheinteractionofturbulent -> experiments are reported on the interact i of turbulent 
+558) themechanicsofthekinetictheoryofgasesisemployedto -> Error
+559) experimentalresultsgatheredinrecentyearsforbinary -> experimental results gathered in recent years for bar y 
+560) ananalysiswasmadeoftheflowconditionsdownstreamofa -> an al y s i w a m de of the fl oc on d t re 
+561) articleisacontinuationofanearliernoteonpapersbyli -> article is a co n t i u o f er l e p s by 
+562) publishedworkoncreepbucklinghasimpliedthatfailure -> published work on creepbuckling has implied that failure 
+563) thebucklingofathincylindricalshellsimplysupported -> Error
+564) thelagrangianthermodynamicequationsofirreversible -> the lagrangian rm o dynamic eq u at in s f i r e v b l 
+565) thepapersetsdowntheequationsofmotionforasymmetric -> Error
+566) insomecoolingproblemsassociatedwithhighenergyflows -> in some cool g problems associated with h i e n r y flows 
+567) thefreeturbulentmixingofasupersonicjetofmachnumber -> the free turbulent mixing of as up er sonic jet mach n u m b 
+568) theresultsofexperimentsonaxialloadingofcylindrical -> Error
+569) thispapersummarizestheopticalandphysicalproperties -> Error
+570) aninvestigationofthebasepressurebehindwedgesatmach -> Error
+571) thereportisafirstattempttodeviseacalculationmethod -> Error
+572) aprogramtoinvestigatetheaerodynamicheattransferofa -> a pr o g rm t in v e s i h r dy n mc ff 
+573) amethodofcalculationisdevelopedtocomputetheoverall -> Error
+574) theproblemofaccuratelypredictingthepressureandwake -> the problem of accurately predicting pressure and wake 
+575) recentexperimentalstudiesoftransitionfromlaminarto -> recent experimental studies of transition from laminar to 
+576) thepurposeofthisresearchprogramwastoinvestigatethe -> the purpose of this research program was to investigate 
+577) theconditionofimmediatefreezingofthemassfractionof -> the condition of immediate freezing mass fraction 
+578) theproblemofpredictingthemeanvelocityonstreamlines -> the problem of predicting mean velocity on streamlines 
+579) thegeneralsolutionofthestrongblastwaveisfoundinthe -> the general solution of strong blast wave is found in 
+580) theoryandexperimentsoftheflutterofabuckledplateare -> Error
+581) rangehypervelocityvehiclesarestudiedintermsoftheir -> range hypervelocity vehicles are studied inter ms of their 
+582) theproblemofoptimalzoomclimbmaneuveringofaturbojet -> the problem of optimal zoom climb maneuvering at u r b o jet 
+583) aircraftstructureslocatedinthenearnoisefieldofajet -> aircraft structures located in then e a r no is f i ld o j t 
+584) assumingthatcontinuumflowenergyequationinaboundary -> assuming that continuum flow energy equation in ab o u nd ary 
+585) whencertainconditionsarefulfilledforthicknessratio -> Error
+586) inthischapterweshallmainlyconsiderproblemsofsteady -> in this chapter we shall m al y consider pr ob l e so f s t a d 
+587) layerheattransferisanalyzedforthecaseofasinusoidal -> Error
+588) theactionofacolumnintheplasticrangeisanalyzedonthe -> Error
+589) amosttroublesomeparadoxhasexistedforanumberofyears -> a most troublesome pr do x h s e it d for n u m b r of y 
+590) thetemperatureisdeterminedasafunctionofpositionand -> the temperature is determined as a function of position nd 
+591) thegeneralbendingtheoryofshellsundertheinfluenceof -> the general bending or y of shells under influence 
+592) thisisalucidintroductiontotheeffectsofdissociation -> Error
+593) anapproximationtotheheattransferrateacrossalaminar -> an approximation to the heat tr s f er rate acr o al a m in r 
+594) thisisasurveyofcertainrecentadvancesmadeinthestudy -> Error
+595) transfercoefficientsandrecoveryfactorsarepresented -> transfer coefficients and recovery factors are presented 
+596) ananalyticalandexperimentalstudyismadeforinelastic -> Error
+597) alargeproportionofthecurrentresearchprogrammeofthe -> Error
+598) flowpropertiesinnozzleswerecalculatedandchartedfor -> flow properties in nozzles were calculated and charted for 
+599) theuseofmodelsforstructuraltestinvestigationsinthe -> the use of models for structural test investigations in 
+600) inthefirstpartoftheinvestigationananalysisismadeof -> in the first part of v e s t i g ao n a l y m d 
+601) theproblemstudiedmayberegardedasaproblemofgeometry -> the problems t u d i e may b r g a s p o l m f y 
+602) amethodwhichmaybeusedathighsupersonicmachnumbersis -> Error
+603) amethodispresentedfortheestimationoffatiguedamageto -> a method is presented forth e s t im ion off i g u d m o 
+604) thepostbucklingcharacteristicsofanaxiallycompressed -> the postbuckling characteristics of an axially compressed 
+605) thetorsionalbucklingstrengthofacylinderintheplastic -> Error
+606) thisisanaccountofaninvestigationinwhichoscillations -> this is an account of investigation in which oscillations 
+607) transitionfromlaminartoturbulentflowinthehypersonic -> transition from laminar to turbulent flow in the hypersonic 
+608) asolutionisgivenforthecaseofthelaminarboundarylayer -> Error
+609) theprofileofasymmetricairfoilofunitlengthwitharound -> the profile of asymmetric airfoil unit length with around 
+610) newmethodsarepresentedfortheanalysisoftransientheat -> new methods are presented forth e analysis of trans in that 
+611) analogymethodforthesolutionofelasticplateproblemsis -> Error
+612) asimpleformulaisgivenforthepressuredistributiononan -> as im p l e form u a is g iv n forth r s d t i b o 
+613) thisreportpresentsatheoreticalanalysisoftheboundary -> this report presents at he or et i cal an al y s of t bound a r 
+614) formulasfortheinviscidflowpropertiesonthesurfaceofa -> formulas forth e inviscidflow pr o t is n h s u rf a cf 
+615) resultsaregivenofawindtunnelprogrammemadetostudythe -> results are given of a windtunnel pr o g rm m e d t s u y h 
+616) thetheoryofthesteadyflowofaviscouscompressiblefluid -> the or y of s t e a d flow vi co u m pr i b l f 
+617) theinterferencebetweenthewingsandthetailsurfacesofa -> Error
+618) thispaperisconcernedwiththeproblemofobtaininghigher -> this paper is concerned with the problem of obtaining higher 
+619) atheoreticalanalysishasbeenmadeforanimpacttubeofthe -> Error
+620) paperisagoodreviewofknowledgetodateonconvectiveheat -> Error
+621) thisanalysisincludesthespecificcontributionsofatoms -> this analysis includes the specific contributions of atoms 
+622) thetheoryfortheplasticbucklingofcolumnswhichappears -> the or y f plastic buckling oc o l u m n s which appear 
+623) anexperimentalstudyofawinginapropellerslipstreamwas -> an experimental study of a wing in propellers lip s tr e m w 
+624) transitionalheattransferonabluntbodyunderhypersonic -> Error
+625) experiencehasshownthatthefluctuatingloadsinducedbya -> experience has shown that the fluctuating loads induced by a 
+626) chartsarepresentedfordeterminingcompletetemperature -> charts are presented for determining complete temperature 
+627) ontheforebodyofmanypracticallyinterestinghypersonic -> Error
+628) byexpandingthevelocitypotentialinanasymptoticseries -> by expanding the velocity potential in an asymptotic series 
+629) conditionsofthermodynamicequilibriumisextendedtonon -> conditions of thermodynamic equilibrium is extended to non 
+630) thepurposeofthepresentnoteistogiveanexactsolutionof -> the purpose of present note is to give an exact solution 
+631) theproblemsofheattransferinturbulentshearflowalonga -> the problems of heattransfer in turbulent shear flow along a 
+632) dataarepresentedwhichwereobtainedfromatransonicwind -> data are presented which were obtained from at r an sonic wind 
+633) inmanywingvibrationanalysesitisfoundnecessarytotake -> in many w g vibration analyses it is found necessary to take 
+634) asimpleandrelativelyaccurateanalyticapproximationis -> Error
+635) theeffectsofstreamvelocitygradientsonairfoilmaximum -> the effects of stream velocity gradients on airfoil maximum 
+636) aparticleapproachisusedtostudytheflowpatternarounda -> Error
+637) asanaidtotheaerodynamieistinthedesignofairframesfor -> as an aid to the aerodynamieist in design of airframe s for 
+638) theeffectsofasmalljetofairexhaustingfromthenoseofan -> the effects of as m all jet air exhausting f r on o sea n 
+639) atheoryisdevelopedwhichdescribestheeffectofageneral -> at he or y is developed which describes t e ff co f a g n rl 
+640) axisymmetricviscousflowpastunyawedveryslenderbodies -> axisymmetric viscous flow past unyawed very slender bodies 
+641) earlierstudiesassumeanaverageheatofformationofatoms -> earlier studies assume an average heat off or mat ion of atoms 
+642) onafinnedmissilewhosewingsaredeflectedintoanaileron -> on a finned missile whose wings re deflected into n i l er 
+643) itwillbeshownthatthedifferentialequationsforaheated -> it will be shown that the differential equations for a he t e d 
+644) supporteddiscussionoftheuseofanintermediateelliptic -> supported discussion of the use an intermediate elliptic 
+645) thepresentreportdescribesanewmethodfortheprediction -> Error
+646) plateproblemsinvolvingfreeedgeshavebeenhistorically -> plate problems involving free edges have been historically 
+647) highreynoldsnumberhypersonicstagnationflowoverablunt -> high reynolds number hypersonic stagnation flow over ab l u n t 
+648) anumberofbluntbodieshavingshapesthatmaybesuitablefor -> an u m ber of b l n to d i e s h a v g p t y for 
+649) asimplifiedmethodhasbeendevisedfordeterminationofthe -> asimplified method has been devised for determination of the 
+650) authordiscussestheproblemofdeflectionofacantilevered -> Error
+651) thetrailleftintheatmospherebyabodymovingathypersonic -> Error
+652) itisnowknownthatthehypersonicsimilaritylawderivedfor -> it is now k nth at the hypersonic similar y law derived for 
+653) experimentalandtheoreticalresearchhasbeenconductedon -> experimental and theoretical research has been conducted on 
+654) inthecontinuousquestforimprovedmeansoftransportation -> in the co n t u o sq e s f r im pv d m a p i 
+655) themixinganddivergenceofasupersonicjetexhaustinginto -> them i x n g add v er e co f as up soc j th a us t o 
+656) dimensionalincompressibleflowoffluidalongthecornerof -> dimensional incompressible flow off l u i d ao n g the core r of 
+657) theoreticalblockagecorrectionsarepresentedforabodyof -> theoretical blockage corrections are presented for ab o dy f 
+658) areexaminationhasbeenmadeoftheuseofsimpleconceptsfor -> Error
+659) circularcylindricalshellsisexpressedinaformanalogous -> circularcylindrical shells is expressed in a form n log o us 
+660) thedesignofstructurestoresistjetnoisefatiguedemandsa -> the design of structures to resist jet noise fatigue demands a 
+661) thepurposeofthispaperistopresentamethodofcalculation -> Error
+662) paperdescribesresultsofnumericalsolutionoftheviscous -> paper describes results of numerical solution the viscous 
+663) observationsofrotatingstallhaveshownthatawidevariety -> observations ofr o t a ing s l h v e w n i dry 
+664) numericalcomputationshavebeenperformedfortheboundary -> numerical computations have been performed forth e boundary 
+665) availabledataontheeffectsofsuctionandinjectiononskin -> Error
+666) atheoreticalstudyismadeoftheeffectofpressuregradient -> Error
+667) ananalysisismadeofexperimentallydeterminedmodeshapes -> an al y s ii made of experiment ld eter m in e do d h a p 
+668) thispaperillustratesthedevelopmentandapplicationofan -> this paper illustrates the development and application of an 
+669) thispaperdevelopsanewmethodfordeterminingthebuckling -> Error
+670) theequationsobtainedbychienforthenonlineardeflection -> the equations obtained by chien for nonlinear deflection 
+671) aformulaforthesupersonicvelocityfieldintermsofagiven -> Error
+672) sincetheintroductionofmomentummethodsinboundarylayer -> since the introduction of momentum methods in boundarylayer 
+673) theproblemofpanelflutterofrectangularsimplysupported -> the problem of panel flutter rectangular simply supported 
+674) measurementsofstagnationpointheattransferarepresented -> measurements of stagnationpoint heattransfer are presented 
+675) abriefreviewismadeoftheavailableinformationconcerning -> Error
+676) anewmethodisproposedtocalculatethevelocityandpressure -> Error
+677) theuseofpistontheorywasrecentlyadvocatedforsupersonic -> Error
+678) treatsthegeneralclassofflowproblemscharacterizedbythe -> treats the general class off low problems characterized by 
+679) inordertosimplifytheprocessofestimatingtheaerodynamic -> Error
+680) atheoryisderivedtopredictthestressesanddeformationsof -> Error
+681) theintegralmethodofbelotserkovskiihasbeencarriedoutto -> the integral method of belotserkovskii has been carried out to 
+682) astudyhasbeenmadeofthesideforcegeneratedbyinjectionof -> Error
+683) atheoryispresentedtopredictthebucklingtemperatureofan -> Error
+684) anapproximatetheoryonthephenomenaofinteractionbetween -> an approximate theory on the phenomena of interact i between 
+685) theeffectsofcompressibilityonthesteadymotionofahighly -> the effects of compressibility on steady m o t i a hg h l y 
+686) calculationsarepresentedfortheproblemofthestabilityof -> calculations are presented forth e pr ob l m of th s tab ii t y 
+687) ageneraltheoryisdevelopedforthecaseoflargedeflections -> Error
+688) presentednoteproposesalinearizedreactionrateparameter -> Error
+689) paperstudiescompressiblelaminarboundarylayerinadverse -> papers t u d i e s co m pr b l an a r on yy n v 
+690) afourieranalysisofthelinearisedtheoryexpressionforthe -> a fourier n l y s i of the er e do r x p o 
+691) atheoryhasbeendevelopedforsmallbendingandstretchingof -> at he or y has been developed f small bending and stretching o 
+692) controlofflowseparationbyfluidinjectionatonediverging -> control off low separation by fluid injection at one diverging 
+693) ananalysisismadeofturbulentconstantpressuremixingfora -> an al y s ii made of turbulent co n t pre u re mix i g for a 
+694) theprincipleoftheminimumofthetotalpotentialisemployed -> the principle of minimum total potential is employed 
+695) thepresentpapercontainsasetoftablesofcompleteelliptic -> Error
+696) completeinviscidflowfieldsaboutthreemodelaxisymmetric -> complete inviscidflow fields about three model axisymmetric 
+697) ageneralizedwaveequationisderivedforsounddisturbances -> age n er al i z e d w a v q u to s for o tr bc 
+698) resultsaregivenofmeasurementsinthecompressedairtunnel -> results are given of measurements in the compressed air tunnel 
+699) ofthecharacteristicequationsoftheaxiallysymmetricflow -> of the characteristic equations axiallysymmetric flow 
+700) simplemodelsareemployedtobringoutthelargeandimportant -> simple models are employed to bring out the large and important 
+701) analyseshavebeenmadeoftheeffectsofcoupledchemicalrate -> analyses have been made of the effects coupled chemical rate 
+702) accountsformolecularsizeandintermolecularforceeffects -> Error
+703) shockshapeswereobservedandstaticpressuresweremeasured -> Error
+704) anapproximatemethodofpredictingtheinterferencebetween -> an approximate method of predicting the interference between 
+705) anextensionofclassicalhypersonicsimilitudeisdeveloped -> an extension of classical hypersonic similitude is developed 
+706) atheoreticalstudyismadeofthebucklingofasandwichsphere -> Error
+707) aninvestigationhasbeenmadetoexplorethepossibilitiesof -> an investigation has been made to explore the possibilities of 
+708) inthepresentinvestigationoftheflowofairinathinlaminar -> in the present v e s t i g ao no ff low of a r h l m 
+709) authorconsiderstheequationoftheyawingmotionofamissile -> author considers the equation of yawing motion a missile 
+710) amethodofcalculatingthetemperatureofthickwallshasbeen -> Error
+711) aneffectivemeansofprotectingthesurfaceofahypersonicre -> Error
+712) ithasbeenshownthattransversemagneticfieldsofpractical -> it has been shown that transverse magnetic fields of practical 
+713) theproblemofthermalbucklingofshellsarisesinconnection -> the problem ofr m al buckling of shells arises in connection 
+714) theformulasofsubsonicandsupersonicwingtheoryforsource -> the formulas of subsonic and supersonic wing or y f source 
+715) steadyflowaboutcurvedairfoilsathighsupersonicspeedsis -> steady flow about curved airfoils at high supersonic speeds is 
+716) authorintroduceshissurveybyabriefreviewofthehistoryof -> author introduces his survey by ab r i e f v w o th t y 
+717) ananalyticalstudyismadeofviscousflowinslenderchannels -> Error
+718) anexperimentalinvestigationhasbeenmadeofsomeeffectsof -> an experimental investigation has been made of some effects 
+719) vangorcumhaspointedtointerestingandimportantanalogies -> van gorcum has pointed to interesting and important analogies 
+720) thispaperisconcernedwithbucklingofacircularcylinderof -> Error
+721) discussionofseveralformsoftheenergyequationandoftheir -> discussion of several forms the energy equation and i r 
+722) thisreportconcernstheproblemofconstructingsolutionsfor -> this report concerns the problem of constructing solutions for 
+723) theuseofamagneticfieldtocontrolthemotionofelectrically -> Error
+724) cosmonauticsiscurrentlyverymuchtotheforefrontinthenews -> cosmonautics is currently very much to the forefront in news 
+725) experimentalresearchhasbeenconductedontheeffectsofwall -> experimental research has been conducted on the effects of wall 
+726) wiremeasurementsinthefreestreamofasupersonicwindtunnel -> wire measurements in the freestream of as up er sonic w d tunnel 
+727) resonantbreathingfrequenciesandmodeshapesaredetermined -> resonant breathing frequencies and modes h a p e sr d tr m in 
+728) basedonthevariationalformulationoflinearthermodynamics -> Error
+729) wingwithsharpleadingedgeshasbeenmadeinordertoascertain -> Error
+730) dataarepresentedwhichshowtheeffectofajetonbasepressure -> data are presented which show the effect of a jet on b s e pr u r 
+731) thecornellaeronauticallaboratoryisconductingaprogramof -> the cornell aeronautical laboratory is conducting a pr o g rm f 
+732) relationsarepresentedforthecalculationofheattransferat -> relations are presented forth e calculation of h at trans f r 
+733) thetemperatureandthermalstressdistributionsareanalyzed -> the temperature and rm al stress distributions area n y z e d 
+734) twomethodsarepresentedfortheanalysisofcomplexlowaspect -> Error
+735) thisveryshortpaperpresentsanapproximateprocedureforthe -> this very short paper presents an approximate procedure forth e 
+736) theequationsofmotionfortheflowofanidealdissociatinggas -> the equations of motion for flow an ideal dissociating gas 
+737) asurveyofexistinganalyticaltreatmentsofthesupersonicor -> Error
+738) thispapergivesabriefsummaryofcurrentloadsinformationat -> this paper gives ab r i e f sum may oc u n t loads o m a 
+739) anumberofapproximatetheoriesforsupersonicandhypersonic -> Error
+740) ionizedmoleculesandatomsoftheelementsnitrogenandoxygen -> ionized molecules and atoms of the elements nitrogen oxygen 
+741) manufacturingandmaintainanceofideallysharpleadingedges -> manufacturing and maintainance of ideally sharp leadingedge s 
+742) informationonatmosphericturbulenceobtainedfromcounting -> information on atmospheric turbulence obtained from counting 
+743) theinfluenceoflocalizedmasstransferatthenoseofaslender -> the influence of localized mass transfer at nose as lend er 
+744) briefdescriptionofexperimentsperformedbyusingshocktube -> brief description of experiments performed by using shock tube 
+745) thisnotepresentsasimplificationofamethodforcalculating -> Error
+746) somenewsolutionsforsteadyincompressiblelaminarboundary -> some news o l u t in s f ready cm pre i beam a r b nd y 
+747) themethodsoftheclassicalaerofoiltheoryareusedtoderivea -> Error
+748) anexperimentalstudyhasbeenmadetoinvestigatesomeaspects -> Error
+749) gashypersonicflowparametersforheliumhavebeencalculated -> gas hypersonic flow parameters for helium have been calculated 
+750) thepressuredistributionandpressuredragofabluntbodywitha -> the pressuredistribution and pressure drag of ab l u n t body w i h a 
+751) thefirstportionofthispaperdescribesstudiesoftheinternal -> the first portion of this paper describes studies internal 
+752) withaviewtostudyingtheeffectofstrongtransversecurvature -> with a view to studying the e ff cf strong tr n s v r cut u 
+753) ananalysisispresentedwhichenablesthetemperatureprofiles -> an al y s ii pre e n t d which ab l h m pr a u r of i 
+754) attentionisdrawntoapreviousaccuratesolutiontotheproblem -> Error
+755) thesupersonicaerodynamiccharacteristicsofinclinedbodies -> the supersonic aerodynamic characteristics of inclined bodies 
+756) authorstudiesthevelocityprofilesmeasuredbyothersinplane -> authors t u d i e s h v l oc y pr of m a r b on p n 
+757) inanattempttoavoidflowseparationattheleadingedgeofathin -> in an attempt to avoid flows e para tion at th la d g of h 
+758) theaccuracyandrangeofapplicabilityofthelinearizedtheory -> the accuracy and range of applicability linearized or y 
+759) aninvestigationoftransitionandskinfrictiononaninsulated -> Error
+760) atheoreticalinvestigationhasbeenmadeofageneralmethodfor -> at he or et i cal n v e s t go h ab m a do f g rl o d 
+761) inrecentyearsgreatusehasbeenmadeofapproximatemethodsfor -> in recent years great use has been made of approximate methods for 
+762) measurementsofaverageskinfrictionoftheturbulentboundary -> measurements of averages k in friction the turbulent boundary 
+763) thisnotegivesamethodforthederivationofsuitableconstants -> this note gives a method forth e d r iv tion of s u it b l co n t 
+764) theequationsdescribingtheflowofanelectricallyconducting -> the equations describing flow of an electrically conducting 
+765) thisreportcontainssomefairlysimpleandeconomicmethodsfor -> this report contains some fairly simple and economic methods for 
+766) developmentofananalyticalrelationbetweenshockdetachment -> Error
+767) formexpressionsandtablescomposedfromtheseexpressionsare -> form expressions and tables composed from these are 
+768) thisnotedescribesthemannerinwhichtheonsetoftheeffectsof -> Error
+769) anapproximatetheoryofairfoilsinunsteadymotioninaviscous -> an approximate theory of airfoils in unsteady motion a viscous 
+770) thelinearisedtheoryofthinwingsisusedtocalculatepressure -> the linearised or y of thin wings is used to calculate pressure 
+771) asimpleexpressionisderivedforthenormalinjectionvelocity -> Error
+772) approximateformulaeofthedisplacementthicknessandtheskin -> approximate formulae of the displacement thickness and skin 
+773) thesubsonicpotentialflowofacompressiblefluidpastasphere -> the subsonic potentialflow of a compressible fluid p s there 
+774) theresponseofasectionoftailplanestructuretobothdiscrete -> Error
+775) aninvestigationhasbeenmadeofthepossibilityofcorrelating -> an investigation has been made of the possibility correlating 
+776) thispaperpresentstheresultsofaninvestigationconductedin -> Error
+777) integrationofthevelocityprofileatthethroatofaflownozzle -> integration of the velocity pr i l e at th r o a f w n z 
+778) analysisoftheinfluencevariousaerodynamicparametershaveon -> analysis of the influence various aerodynamic parameters have on 
+779) theresultsarepresentedforaflighttestprogramusingafighter -> there s u l t are pre e nd for a fig h pr o g rm in r 
+780) accurateexperimentaldataaregivenontheshapeandthelocation -> accurate experimental data are given on the shape and l oc at i 
+781) adiabaticwalltemperaturesandrecoveryfactorsarecalculated -> adiabatic wall temperatures and recovery factors are calculated 
+782) thefirstpartofthepaperdealswiththelowspeedaerodynamicsof -> the first part of paper deals with lowspeed aerodynamics 
+783) thepresentworkisconcernedwiththedeterminationoftransient -> the present work is concerned with determination of transient 
+784) ananalysisispresentedfordeterminingthecollapseofcircular -> Error
+785) existingconfigurationsofsupersonicportionofrocketnozzles -> existing configurations of supersonic portion rocket nozzles 
+786) equationsbasedonnewtonianimpacttheoryhavebeenderivedanda -> Error
+787) theviscoustransversecurvatureeffectincompressibleaxially -> the viscous transverse curvature effect incompressible axially 
+788) experimentalconfirmationhasbeenrequiredthatinasupersonic -> experimental confirmation has been required that in as up er sonic 
+789) theproblemofdeterminingthestabilityofcompressibleviscous -> the problem of determining stability compressible viscous 
+790) asupersoniccompressordesignhavingsupersonicvelocityatthe -> as up er sonic compressor design having s velocity at the 
+791) secondapproximationforthepropagationandstructureofablast -> Error
+792) thesimilaritylawsforaerothermoelastictestingarepresented -> the similarity laws for aero rm o elastic testing are presented 
+793) ontheassumptionthattheforcedmodesofvibrationofastructure -> Error
+794) thisaddendumprovidesashortnoteontwoaspectsomittedfromthe -> Error
+795) thetheoreticalestimationofthebucklingstrengthofacylinder -> Error
+796) machnumberandflowangledistributionsintheworkingsectionof -> machnumber and flow angle distributions in the work g section of 
+797) hypersonicviscousflowoveraninsulatedflatplatewithsurface -> hypersonic viscous flow over an insulated flatplate with surface 
+798) thelinearizedequationsofmotionhavebeenderivedforarolling -> the linearized equations of motion have been derived for a rolling 
+799) timehistoriesofnoisepressuresneargroundlevelweremeasured -> time histories of noise pressures near ground level were measured 
+800) theboundarylayerbehindashockorthinexpansionwaveadvancing -> Error
+801) thenonlinearlargedeflectionequationsofvonkarmanforplates -> Error
+802) atheoreticalinvestigationofthevelocityprofilesforlaminar -> at he or et i cal n v e s t go of l oc y pr f a m r 
+803) representativeapplicationsaredescribedwhichillustratethe -> representative applications are described which illustrate the 
+804) themotionofthetrailingvorticesassociatedwithaliftingwing -> Error
+805) anaccountisgivenofthehighsupersonicspeedtunnelnownearing -> an account is given of the high supersonic speed tunnel now nearing 
+806) astudyismadeofthesteadylaminarflowofacompressibleviscous -> as t u dy is made of he seal a m in rf low co press i b l e vs 
+807) thefrictionalforceonacylindermovingsteadilyparalleltoits -> the frictional force on a cylinder moving s t e d i l y pr o 
+808) authorinvestigatestheexistenceofaclassofsimilarsolutions -> Error
+809) thethreepartialdifferentialequationsofthelaminarboundary -> the three partial differential equations of laminarboundary 
+810) amodifiedparaboliccurveappearstobeincloseproximitytothat -> Error
+811) thevapourscreenmethodofflowvisualisationinsupersonicwind -> the vapour screen method off low visualisation in supersonic w d 
+812) thispaperpresentstheresultsofanexperimentalinvestigation -> this paper presents there s u l to fan experiment a in v et i g to n 
+813) severalslenderwingsofdeltaplanformwithsharpedgeshavebeen -> several slender wings of delta planform with sharpedge s have been 
+814) thetransformationofthecompressibleturbulentboundarylayer -> the transformation of compressible turbulent boundarylayer 
+815) analysisismadeoftheflowfieldproducedbyobliqueimpingement -> analysis is made of the flow field produced by oblique impingement 
+816) thevariousdifferencepatternsnecessaryforfinitedifference -> the various difference patterns necessary for finite 
+817) astudywasmadeofthelaminarcompressibleboundarylayerinduced -> Error
+818) someillustrationsofthedifferencesthatmaybeexpectedbetween -> some illustrations of the differences that may be expected t we e n 
+819) interferometricmeasurementsweremadeofthedensityprofilesof -> interferometric measurements were made of the density pr i l e s 
+820) theleadingedgesandnosesofhypersonicvehiclesaresubjectedto -> the leadingedge sand noses of hypersonic vehicles are subjected to 
+821) stressandstraindistributionswerestudiedinlongflatplatesin -> stress and strain distributions were studied in long flatplate s 
+822) alargeamountofworkonconicalflowfieldswithoutaxialsymmetry -> Error
+823) asolutiontosecondorderinthicknessisderivedforharmonically -> Error
+824) amethodisgivenforobtainingthesolutionofthelaminarboundary -> a method is given for ob t in g he so l u ion of m r bond y 
+825) variousapproximationsarebeingsuggestedforobtainingsurface -> Error
+826) anexperimentalinvestigationwasmadeofthepressuresinducedon -> an experimental investigation was made of the pressures induced on 
+827) itisshownthattherotationalstiffnessofacrossedflexurepivot -> it is shown that the rotational stiffness of across e d fl x u r pivot 
+828) anumericalsolutionoftheinviscidflowfieldaboutslenderblunt -> Error
+829) thatthevelocitypotentialforthesubsonicflowofacompressible -> that the velocity potential for subsonic flow of a compressible 
+830) thepresentarticledescribesaninvestigationofseveraltypesof -> the present article describes an investigation of several types 
+831) itiswellknownthataccordingtoclassicalhydrodynamicsasteady -> it is wellknown that according to classical hydrodynamics as t e a dy 
+832) aseriesofexperimentswasperformedtodefinetheflowfieldonthe -> as er i e so f x p m n t s w or do d h l o 
+833) authorshowsthatthedifferentialequationsdefiningtheminimum -> authors how s that the differential equation defining minimum 
+834) thisreportpresentstheresultsofanexperimentalinvestigation -> this report presents there s u l to fan experiment a in v et i g to n 
+835) photothermoelasticexperimentswereperformedonalongmultiweb -> photothermoelastic experiments were performed on al g multiweb 
+836) theproblemofsolvingasymptoticdevelopmentsforallquantities -> the problem of solving asymptotic developments for all quantities 
+837) followingisananalyticalmethodfordesigningashroudwhichwill -> Error
+838) representativeresultsarepresentedtoshowthecurrentstatusof -> representative results are presented to show the currents t a us of 
+839) amethodformakinganapproximatethicknesscorrectiontoslender -> Error
+840) experimentalpanelflutterdatahavebeenobtainedatmachnumbers -> Error
+841) thepaperdealswiththegeneralequationsforthevibrationofthin -> the paper deals with general equations for vibration of thin 
+842) aerodynamicstiffnessanddampingderivativeshavebeenmeasured -> aerodynamics t if f n e s add a m p i g d r v h b u 
+843) thecroccotransformationcombinedwithamanglertransformation -> the crocco transformation combined with a m n g l er 
+844) theshocktubeisshowntobeafeasibleresearchtoolforconducting -> Error
+845) theflutterproblemofflatcircularpanelswithedgeselastically -> Error
+846) anestimateisgivenofthedistributionofskinfrictionalforceper -> Error
+847) sincetheconventionalelasticanalysisofthermalstressproblems -> since the conventional elastic analysis ofr m al stress pr ob l e s 
+848) resultsarepresentedofaninvestigationtodeterminetheeffectof -> results are presented of an investigation to determine the effect 
+849) overarangeofincidencesonthreesimplemodelsrepresentingthick -> Error
+850) therequirementsforsimulatinginawindtunnelflutterconditions -> there q u i re m e n t s for lag a w d l f r co o 
+851) relatestoatechniqueforapproximatedeterminationoftheinitial -> Error
+852) somerecenttheoreticalworkonslenderpointedwingsatzeroliftis -> some recent theoretical work on slender pointed wings at zerolift is 
+853) theproblemofinvestigatingthesimultaneouseffectsoftransient -> the problem of investigating simultaneous effects transient 
+854) inviewoftherecentcontroversybetweenliandglauertonthenature -> in view of there cent controversy between li and glauert on then at u re 
+855) aninvestigationwasmadetodeterminethesmallestsizeofisolated -> an investigation was made to determine the smallest size of isolated 
+856) asummaryisgivenofsomeofthemoreimportantexperimentalresults -> as u mm ary is given of some them or e im p tan t x r n al s l 
+857) thedevelopmentoftheflowpatternonasweptwingwithincidenceand -> the development off low pattern on as we p twin gw it h incidence and 
+858) theaerodynamicstabilityderivativesduetopitchingvelocityand -> Error
+859) theimportanceofbodyliftliesinthefactthatatmoderateanglesof -> the importance of body lift lies in fact that atm o de rate angles 
+860) inthecourseofalargersurveyofsomeaerodynamiccharacteristics -> Error
+861) chartshavebeenpreparedrelatingthethermodynamicpropertiesof -> charts have been prepared relating the rm o dynamic pr per t i e s f 
+862) liftfunctionsforwingsoffiniteaspectratiohavebeencalculated -> Error
+863) theeffectofairdragonsatelliteorbitsofeccentricityelessthan -> the effect of air drag on satellite orbits eccentricity e l s than 
+864) adislocationclimbcreepmodelisconsideredwhichdoesnotrequire -> Error
+865) areviewispresentedofthepublisheddataontheeffectofroughness -> are view is presented of the p u b l he d at ao n effect r o g he s 
+866) thisreportconsidersthelossofflexuralrigidityofathinwingdue -> this report considers the loss off l e x u r a i g d t y of h n w 
+867) thispaperisconcernedwithatheoreticalinvestigationoftheflow -> this paper is concerned with at he or et i cal n v e s t go off low 
+868) asublayerregionisintroducedinwhichtheintensityofturbulence -> Error
+869) parkesandspragueandhuanghaveshownthatitispossibleforstrain -> parkes and sprague huang have shown that it is possible for strain 
+870) anintegralequationforobtainingtheunsteadyairforcesonfinite -> Error
+871) ithasbeenshownbyludwiegthatthewallshearingstressofalaminar -> it has been shown by ludwieg that the walls he a rings tr e s of l m in r 
+872) generallyacceptedsolutionsfortheproblemsofhypersonicflight -> generally accepted solutions forth e pr ob l ms of h y sonic fig t 
+873) anasymptoticexpressionisfoundfortheliftdistributiononalong -> an asymptotic expression is found forth e lift d tr i but on al g 
+874) atheoryisdevelopedofthesupersonicflowpastabodyofrevolution -> at he or y is developed of t supersonic flow p as ab o d rev l u in 
+875) theequationsofmotionofcompressibleviscousflowwithvanishing -> the equations of motion compressible viscous flow with vanishing 
+876) anexperimentalinvestigationwasmadeofthepressuresinducedona -> an experimental investigation was made of the pressures induced on a 
+877) theoreticalaspectsinvolvedinthepredictionofstresslevelsfor -> theoretical aspects involved in the prediction of stress levels for 
+878) abriefdescriptionoftheslottedlinersusedisgiventogetherwith -> Error
+879) inthepresentpaperashortsurveywillbegivenfirstofthebuckling -> Error
+880) analyticsolutionsarepresentedforthetransientheatconduction -> analytic solutions are presented forth et r an s i e nth at conduct on 
+881) aninvestigationwasmadeatsubsonicspeedsinthelangleyhighspeed -> an investigation was made at subsonic speeds in the l g e y h is p d 
+882) anextensionofworkoflockandrogersandtheresultofcooperationby -> an extension of work lock d rogers there s u l t co op er a ion by 
+883) theauthorsgivetheexactsolutionforthethermaldistributionsfor -> the authors give exact solution for rm al distributions 
+884) themethodisbasedontheobservationofthedivergencethatoccursin -> Error
+885) theflexuralvibrationsofthewallsofthincylindersareconsidered -> the flexural vibrations of walls thin cylinders are considered 
+886) experimentalstudiesofpanelflutterwereconductedatamachnumber -> experimental studies of panel flutter were conducted at a mc h number 
+887) ashallowsphericaldomesubjectedtolateralpressureisastructure -> Error
+888) asimilarsolutionofthehypersonicviscousflowpastslenderbodies -> Error
+889) thispaperdealswithtwolimitingcasesoflaminarheattransferover -> this paper deals with two limiting cases of laminar heattransfer over 
+890) thisnotecollectstogetherinonereportavailabletheoreticalwork -> this note collects together in one report available theoretical work 
+891) thecorrectdesignofintermediateverticalstiffenersonwebplates -> the correct design of intermediate vertical stiffeners on web plates 
+892) twoimportantfeaturesofhypersonicflowoverslenderorthinbodies -> two important features of hypersonic flow over slender or thin bodies 
+893) anaccountisgivenofexplicitsolutionsintermsofmathieufunction -> an account is given of explicit solutions inter ms mathieu function 
+894) amethodispresentedfortherapidcalculationoftheincompressible -> Error
+895) measuredpressuredistributionsonconesarecomparedwithmodified -> measured pressuredistribution so n co e s arm p a r d with m o if i 
+896) thispaperconsiderstheproblemofcalculatingviscousaerodynamic -> this paper considers the problem of calculating viscous aerodynamic 
+897) aninvestigationoftheeffectsofaerodynamicheatingontheflutter -> an investigation of the effects aerodynamic heating on flutter 
+898) authorsextendvariationalprincipleofbiottovariouscasesofheat -> authors extend variational principle of biot to various cases heat 
+899) themainpurposeofthisinvestigationistoexaminethedependenceof -> Error
+900) thevariationalandlagrangianthermodynamicsdevelopedinearlier -> the variational and lagrangian rm o dynamics de v e l p d in a r i 
+901) sponsoredanalysisoftheunsteadyperturbationsoftwodimensional -> sponsored analysis of the unsteady perturbations twodimensional 
+902) thispaperpresentsananalysisofthedeflectionsofandstressesina -> Error
+903) thisreportdescribesamethodwhichhasbeendevelopedformeasuring -> this report describes a method which h s been developed form e u ring 
+904) adetaileddescriptionisgivenofamethodofapproximatingsolutions -> Error
+905) thenonviscousincompressibleflowthroughatypicalpumpimpelleris -> then on viscous incompressible flow through at y p i cal u mm e l r s 
+906) thetotalliftresponsesofwingstosinusoidalgustsandtosinusoidal -> the total lift responses of wings to sinusoidal gusts and 
+907) thebasicproblemsoffluttertestinginthelowsupersonicspeedrange -> Error
+908) amethodisdescribedformeasuringthedynamicstabilityderivatives -> Error
+909) amethodispresentedforanalysisofthecompressibleflowbetweenthe -> a method is presented for n l y soft he co m press i be f o w t e 
+910) thelaminarjetmixingproblemswithheatreleasehavebeenformulated -> the laminar jet mixing problems with heat release have been formulated 
+911) energyexpressionsandtherelatedequilibriumequationsandnatural -> energy expressions and there late de q u i lb rm e at on s n r al 
+912) amethodofcalculatingthetotalquantityofheatthatpassesthrougha -> Error
+913) thecompressibilitytransformationfirstintroducedbydorodnitzyn -> the compressibility transformation first introduced by dorodnitzyn 
+914) theflowofanidealdissociatinggasthroughanearlyconicalnozzleis -> the flow of an ideal dissociating gas through early conical nozzle is 
+915) aninvestigationhasbeenconductedinthelangleypropellerresearch -> an investigation has been conducted in the l g e y pr or s arc h 
+916) subsonicspanloadsandtheresultingstabilityderivativeshavebeen -> subsonic span loads and there s u l ting tab ii t y de r iv a e h v b n 
+917) thermalstressdistributionsinuniformcircularcylindricalshells -> Error
+918) inconnectionwithastudyofthewakesbehindbodiesinhypersonicflow -> in connection with as t u dy of he wakes be h db o d i e s y pr n cf l w 
+919) chartsofthermodynamicpropertiesforequilibriumairarepresented -> charts of thermodynamic properties fore q u i lb rm a r e p s n t d 
+920) planeandaxisymmetrichypersonicgasflowsareconsideredwithshock -> plane and axisymmetric hypersonic gas flows are considered with shock 
+921) experimentsoftransonicflowpastacirculararcprofileshowthatthe -> Error
+922) descriptivetheoryofdeformationhasbeendevelopedindetailforthe -> descriptive theory of deformation has been developed in detail forth e 
+923) aninvestigationhasbeenmadetodeterminejeteffectsoncylindrical -> an investigation has been made to determine jet effects on cylindrical 
+924) theboundarylayeronaslenderbodytendstobeverythickathypersonic -> Error
+925) anattempthasbeenmadetoidentifythesignificantfactorsgoverning -> Error
+926) aninvestigationwasmadetodeterminethecombinedeffectsofsurface -> an investigation was made to determine the combined effects of surface 
+927) themeasurementofrocketexhausteffectsonvehiclestabilityandthe -> Error
+928) theinteractionbetweenshockwavesandboundarylayershasimportant -> the interaction between shockwaves and boundarylayer s h aim p or tan t 
+929) followingamajorassumptionthatenthalpyandvelocityaredependent -> following a m j or s up tion th ten l p y nd v e oc it r d n t 
+930) thispaperreviewssomeoftheexperiencetodateofusingsandwichtype -> this paper reviews some of the experience to date using sandwich type 
+931) anexactanalyticalsolutionoftheequationsofinviscidcompressible -> Error
+932) aformulaforthevelocityfieldintermsofagivensurfacedistribution -> Error
+933) arapidapproximatemethodforthedesignofcentrifugalcompressorsof -> Error
+934) anexperimentalinvestigationhasbeenmadetoindicatethevalidityof -> an experimental investigation has been made to indicate the validity of 
+935) thehypersonicsimilaritylawasderivedbytsienhasbeeninvestigated -> the hypersonic similarity law as derived by tsien h been investigated 
+936) severalbluntbodieshavingshapesthatmaybesuitableforatmospheric -> several blunt bodies having shapes that may be suitable for atmospheric 
+937) thereciprocalequationsforrelatingtheincompressiblecirculatory -> Error
+938) amodelisanalyzedwhichexhibitstheimportantpropertiesassociated -> a model is n l y z e d which x h i b t s m p orr or oc 
+939) somediscussionoftheacousticfatigueproblemofaircraftstructures -> some discussion of the acoustic fatigue problem aircraft structures 
+940) themotionofanincompressibleviscousfluidgeneratedbyacylinderof -> Error
+941) directpitchingmomentderivativeshavebeenmeasuredusingthemethod -> direct pitchingmoment derivatives have been measured using them et h o d 
+942) ageneralisedconicalflowtheoryisusedtodeduceanintegralequation -> Error
+943) theoriginalpapergaveacorrelationformulaforstagnationpointheat -> the original paper gave a co r e l tion f o must g np in t 
+944) thepresentpaperdescribesamethodfortheapproximatesolutionofthe -> the present paper describes a method for p r o x im t e s l u in f 
+945) aninvestigationhasbeenconductedatvariousreynoldsnumbersandlow -> an investigation has been conducted at various reynolds numbers d low 
+946) representativeexperimentalresultsarepresentedtoshowthecurrent -> representative experimental results are presented to show the current 
+947) streamofviscousincompressiblefluidoveranotheratrestisextended -> stream of viscous incompressible fluid over another at rest is extended 
+948) thetheorypreviouslydevelopedforthechangesintheperigeedistance -> Error
+949) ageneralanalyticalprocedureisoutlinedforstructuressubjectedto -> Error
+950) thispaperisapreliminaryandbriefaccountofsomeresearchcurrently -> Error
+951) detailsaregivenofaprogrammeoftestsbeingmadeonsimilarsweptwing -> details are given of a pr o g rm met e s t b in m d n ii l r w p 
+952) theequationsofmotionofatumblingflatplateenteringanexponential -> the equations of motion at u m b lin g fl p lee n t er i a e x o l 
+953) themethodpreviouslydescribedhasbeenrefinedbytakingintoaccount -> Error
+954) ananalyticalmethodforthedeterminationofeffectofshockcurvature -> Error
+955) atmosphericdensitieshavebeenderivedfromartificialsatellitesin -> atmospheric densities have been derived from artificial satellites in 
+956) ontheassumptionofinfinitelysmalldisturbancestheauthordevelops -> on the as sum p t i of n f e l y s m a du r bc u h o d v 
+957) thestressesintheplasticrangearoundanormallyloadedcircularhole -> the stresses in plastic range around an or m all y loaded circular hole 
+958) theboundarylayerequationsforuniformflowparalleltothegenerators -> the boundarylayer equations for uni m flow parallel to g e n r as 
+959) astudyismadeoftheadvantagesthatcanberealizedincompressibleflow -> Error
+960) thisreportdescribesanexperimentalinvestigationoftheequivalence -> this report describes an experimental investigation of the equivalence 
+961) anumberofauthorshaveconsideredtheeffectofslipontheheattransfer -> Error
+962) thispaperconsiderstheimplicationsofrecentadvancesinknowledgeof -> Error
+963) thelaminarflowofaviscousincompressiblefluidoveratwodimensional -> the laminar flow of a viscous incompressible fluid over two dimension l 
+964) toinvestigatethetheoreticalpredictionsoflighthillonaerodynamic -> Error
+965) thispaperdiscussesthebasicprinciplesemployedintechniquesforthe -> this paper discusses the basic principles employed in techniques for 
+966) theindicialliftandmomentfunctionsaredeterminedapproximatelyfor -> the indicial lift and moment functions are determined approximately for 
+967) theapproximatetheoryofflowaboutslenderbodiesandwingsoriginated -> the approximate or y off low about slender bodies and wings i g n at e d 
+968) determinethestaticlongitudinalstabilitycharacteristicsofamodel -> determine the static longitudinal stability characteristics of a model 
+969) thedynamicbehavioroftwoprobevehiclesenteringamartianatmosphere -> the dynamic behavior of two probe vehicles entering a m rt into sphere 
+970) theeffectofvorticityonaxisymmetricstagnationpointboundarylayer -> the effect of vorticity on axisymmetric s t a g n i p ob o u dry l y er 
+971) testswereconductedatthelangleyresearchcenterontwowingedlifting -> tests were conducted at the langley research center on two winged lifting 
+972) thestaticaeroelasticstabilityordivergenceproblemisinvestigated -> the static aeroelastic stability or divergence problem is investigated 
+973) extensivetablesaregivenofpressurecoefficientsmeasuredatreynolds -> extensive tables are given of pressure coefficients measured at reynolds 
+974) thefreeoscillationsofathinpressurizedcylindricalshellcontaining -> Error
+975) someexperimentalandtheoreticalstudieshavebeenmadeofaxisymmetric -> some experimental and theoretical studies have been made of axisymmetric 
+976) adiscussionofdifferencesarisingbetweenexperimentalandanalytical -> Error
+977) theflowandheattransferaboutarotatingisothermaldiskarereexamined -> the flow and heattransfer about a rott ing is or m ld k re e x in d 
+978) thesubjectofmatricstructuralanalysishasbeentreatedintworecently -> the subject of matric structural analysis has been treated in two recently 
+979) theincompressibleflowofanelectricallyconductingfluidpastaporous -> the incompressible flow of an electrically conducting fluid past a porous 
+980) theresultsofapreliminaryexperimentalinvestigationtodeterminethe -> there s u l to f a pre im in r y e x p n t vi g i o d m h 
+981) thedeterminationofthenaturalfrequenciesandnormalmodesofvibration -> the determination of natural frequencies and normal modes vibration 
+982) theuseofstagecharacteristicsobtainedfromtestdataintheperformance -> the use of stage characteristics obtained from test data in performance 
+983) thisreporttreatsthekernelfunctionofanintegralequationthatrelates -> this report treats the kernelfunction of an integral equation that relates 
+984) arapidapproximatemethodofanalysiswasdevelopedforbothcompressible -> Error
+985) statisticaltheoryingeneralconsidersmeanvaluesofcertainquantities -> Error
+986) hypersonicflowatlowreynoldsnumberisstudiedutilizingtheshocklayer -> hypersonic flow at low reynolds number is studied utilizing the shocklayer 
+987) aninvestigationwasmadetodeterminetheinterferenceeffectsonsurface -> an investigation was made to determine the interference effects on surface 
+988) thisnotepresentssomephysicalinterpretationsofmagnetohydrodynamic -> this note presents some physical interpretations of magnetohydrodynamic 
+989) theconfluenthypergeometricfunctionshaveprovedusefulinmanybranches -> the confluent hypergeometric functions have proved useful in many branches 
+990) theexperimentallydeterminedinteractioneffectsofasidejetexhausting -> the experimentally determined interaction effects of aside jet exhausting 
+991) publishedexperimentalresultsareassembledtosupportapreviouslygiven -> published experimental results areas s e m b ld to up p or t a r vi o u l y g iv n 
+992) aninvestigationoftheeffectsoftheinteractionaheadofatwodimensional -> an investigation of the effects interaction ahead at w o d im e n s i al 
+993) anumericalsolutionispresentedtothetransientheatconductionequation -> Error
+994) thisnotegivesformulaeandapproximationssuitableformakingpreliminary -> this note gives formulae and approximations suitable form akin g preliminary 
+995) incalculationsofthermodynamicheatingforhighspeedmissilesparameters -> in calculations of thermodynamic heat g for h is p e d ms i l s a rm tr 
+996) problemsonheatconductioninmultilayerbodiesleadusuallytocomplicated -> Error
+997) astudyofexperimentalpressuredistributionsandsectioncharacteristics -> Error
+998) designchartsbasedontheanalyticalsolutiontotheproblemofonedimensional -> design charts based on the analytical so l u t i op r ob e m of d n s a 
+999) thestabilityofcircularcylindricalshellsunderpurebendingisinvestigated -> the stability of circularcylindrical shells under pure bending is investigated 
+1000) acomparisonismadeofseveraldifferentpropulsionsystemsforinterplanetary -> a co m pr is on de of s e v rl d if f r n top u li y to it p l t 
